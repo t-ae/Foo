@@ -9,5 +9,5 @@ $ swift test -Xlinker -LSources/Foo/lib
 ## Xcodeproj
 
 ```bash
-swift package -Xlinker -LSources/Foo/lib generate-xcodeproj
+$ swift package -Xlinker -LSources/Foo/lib generate-xcodeproj
 ```
