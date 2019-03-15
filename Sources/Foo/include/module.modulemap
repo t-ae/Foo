@@ -1,0 +1,6 @@
+module Foo {
+    umbrella header "shim.h"
+    export *
+    link "CFoo"
+    link "Bar"
+}
